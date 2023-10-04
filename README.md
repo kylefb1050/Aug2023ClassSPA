@@ -6,3 +6,5 @@ html-literal
 parcel
 navigo (version 8)
 lodash
+
+This is the CLass SPA project for the August 2023 Cohort :)
